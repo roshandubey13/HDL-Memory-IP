@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains **parameterized Verilog implementations** of commonly used memory IP cores — currently including:
+This repository contains **parameterized Verilog implementations** of commonly used memory IP cores currently including:
 
 - Single-Port RAM  
 - Dual-Port RAM  
