@@ -1,0 +1,3 @@
+//completed the basic code of first two whenever i get free time i will complete the IP with all required components,
+//hopefully i will add synthesis report also next time around
+//15 August 2025 is deadline
