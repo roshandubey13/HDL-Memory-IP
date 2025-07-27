@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Dual_Port_RAM_Tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Dual_Port_RAM_Tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="255.201 ns"></ZoomEndTime>
+      <Cursor1Time time="0.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="182"></NameColumnWidth>
+      <ValueColumnWidth column_width="143"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="14" />
+   <wvobject fp_name="/Dual_Port_RAM_Tb/data_A" type="array">
+      <obj_property name="ElementShortName">data_A[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data_A[7:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Dual_Port_RAM_Tb/data_B" type="array">
+      <obj_property name="ElementShortName">data_B[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data_B[7:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Dual_Port_RAM_Tb/addr_A" type="array">
+      <obj_property name="ElementShortName">addr_A[5:0]</obj_property>
+      <obj_property name="ObjectShortName">addr_A[5:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Dual_Port_RAM_Tb/addr_B" type="array">
+      <obj_property name="ElementShortName">addr_B[5:0]</obj_property>
+      <obj_property name="ObjectShortName">addr_B[5:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Dual_Port_RAM_Tb/w_A" type="logic">
+      <obj_property name="ElementShortName">w_A</obj_property>
+      <obj_property name="ObjectShortName">w_A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Dual_Port_RAM_Tb/w_B" type="logic">
+      <obj_property name="ElementShortName">w_B</obj_property>
+      <obj_property name="ObjectShortName">w_B</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Dual_Port_RAM_Tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Dual_Port_RAM_Tb/q_A" type="array">
+      <obj_property name="ElementShortName">q_A[7:0]</obj_property>
+      <obj_property name="ObjectShortName">q_A[7:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+      <obj_property name="CustomSignalColor">#FAAFBE</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Dual_Port_RAM_Tb/q_B" type="array">
+      <obj_property name="ElementShortName">q_B[7:0]</obj_property>
+      <obj_property name="ObjectShortName">q_B[7:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Dual_Port_RAM_Tb/i" type="array">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Dual_Port_RAM_Tb/j" type="array">
+      <obj_property name="ElementShortName">j[31:0]</obj_property>
+      <obj_property name="ObjectShortName">j[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Dual_Port_RAM_Tb/DATA_WIDTH" type="array">
+      <obj_property name="ElementShortName">DATA_WIDTH[31:0]</obj_property>
+      <obj_property name="ObjectShortName">DATA_WIDTH[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Dual_Port_RAM_Tb/ADDR_WIDTH" type="array">
+      <obj_property name="ElementShortName">ADDR_WIDTH[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ADDR_WIDTH[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Dual_Port_RAM_Tb/RAM_LOC" type="array">
+      <obj_property name="ElementShortName">RAM_LOC[31:0]</obj_property>
+      <obj_property name="ObjectShortName">RAM_LOC[31:0]</obj_property>
+   </wvobject>
+</wave_config>
