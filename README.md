@@ -91,6 +91,5 @@ These memory blocks are intended to serve as core components for a wide range of
 - AI/ML accelerators *(currently being explored for implementation)*  
 - SoC designs
 - Memory-intensive applications
-
-All modules are written in synthesizable Verilog and can be integrated into RTL projects targeting FPGA or ASIC flows.
+- All modules are written in synthesizable Verilog and can be integrated into RTL projects targeting FPGA or ASIC flows.
 ---
