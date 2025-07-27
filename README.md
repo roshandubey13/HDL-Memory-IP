@@ -1,5 +1,5 @@
 # HDL-Memory-IP
----
+
 ## Project Overview
 
 This repository contains **parameterized Verilog implementations** of commonly used memory IP cores — currently including:
