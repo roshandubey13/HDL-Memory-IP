@@ -13,8 +13,6 @@ Future updates will expand the library to include more advanced memory component
 
 Developed as part of self-guided hardware IP design projects, these modules provide verified, simulation-ready components suitable for both high-performance and resource-constrained environments.
 
----
-
 ## Key Features
 
 - Fully parameterized address and data width for flexible system integration  
@@ -77,16 +75,8 @@ Supports concurrent access with separate read and write ports, commonly used in 
 **Waveform Result:**  
 <img width="1618" height="378" alt="Dual-Port Waveform" src="https://github.com/user-attachments/assets/c89bd978-ffb8-4654-8e56-36e97588b8fc" />
 
----
-
-## Repository Structure
-HDL-Memory-IP/
-├── Single_Port_RAM
-├── Dual_Port_RAM
-├── FIFO.v # FIFO implementation (testbench pending)
 
 ---
-
 ## Future Modules (Planned)
 - ECC RAM with bit error detection and correction  
 - Multi-bank RAM and bank arbitration logic  
@@ -94,9 +84,7 @@ HDL-Memory-IP/
 - Cache memory (direct-mapped / associative)  
 - DDR memory controller interface  
 - Burst-mode memory access support  
-
 ---
-
 ## Usage Notes
 These memory blocks are intended to serve as core components for a wide range of digital designs, including:
 - Custom processors
